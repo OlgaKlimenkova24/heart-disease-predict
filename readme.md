@@ -14,12 +14,14 @@ pip
 Установка
 
 1. Копирование репозитория:
+
 git clone https://github.com/OlgaKlimenkova24/heart-disease-predict.git
 
 cd heart-disease-predict
 
 
 3. Создание и активация виртуального окружения:
+
 python -m venv venv
 
 source venv/bin/activate  # Linux/Mac
