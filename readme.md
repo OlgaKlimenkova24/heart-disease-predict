@@ -20,7 +20,7 @@ git clone https://github.com/OlgaKlimenkova24/heart-disease-predict.git
 cd heart-disease-predict
 
 
-3. Создание и активация виртуального окружения:
+2. Создание и активация виртуального окружения:
 
 python -m venv venv
 
@@ -29,12 +29,12 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
 
-5. Установка зависимостей:
+3. Установка зависимостей:
 
 pip install -r requirements.txt
 
 
-7. Поместите данные в корневую папку репозитория:
+4. Поместите данные в корневую папку репозитория:
 
 train.csv (обучающий датасет)
 
